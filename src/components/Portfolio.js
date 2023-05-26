@@ -5,6 +5,12 @@ import Project from './Project'
 
 const project = [
     {
+        title: 'GearHub',
+        appLink: 'https://serene-ridge-35528.herokuapp.com/',
+        src: 'https://i.imgur.com/dmGGE2S.png',
+        gitHub: 'https://github.com/diff30140556/GearHub'
+    },
+    {
         title: 'Tee Mates',
         appLink: 'https://lit-oasis-88637.herokuapp.com/',
         src: 'https://i.imgur.com/hXkzaXq.png',
@@ -33,12 +39,6 @@ const project = [
         appLink: 'https://diff30140556.github.io/Weather-Dashboard/',
         src: 'https://i.imgur.com/UTtracb.png',
         gitHub: 'https://github.com/diff30140556/Weather-Dashboard'
-    },
-    {
-        title: 'Daily Planner',
-        appLink: 'https://diff30140556.github.io/daily-planner/',
-        src: 'https://i.imgur.com/M2KE5g9.png',
-        gitHub: 'https://github.com/diff30140556/daily-planner'
     },
 ]
 
